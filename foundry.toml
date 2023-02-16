@@ -1,0 +1,8 @@
+[profile.default]
+src = 'src'
+out = 'typechain'
+libs = ['lib']
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+chain_id = 56
+bsc_rpc_url = 'https://maximum-weathered-surf.bsc.discover.quiknode.pro/9dc1e01ab166568822228266f8896910b55a6170/'
