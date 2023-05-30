@@ -10,9 +10,10 @@
     "include": [
         "demos",
         "./test",
-        // "./typechain"
-        "./artifacts"
-, "scripts/arb_bellman_ford.ts", "scripts/ts_demo.ts"    ],
+        "./artifacts",
+        "scripts/borrowers.ts",
+        "scripts/index.ts"
+    ],
     "files": [
         "./hardhat.config.ts"
     ]
