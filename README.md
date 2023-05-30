@@ -1,7 +1,11 @@
 
 ## description
 
-Template for forge and hardhat.
+aave3 liqudator on arbitrum.
+
+https://docs.aave.com/faq/liquidations
+https://docs.aave.com/developers/guides/liquidations
+https://github.com/aave/aave-v3-core/blob/master/contracts/protocol/pool/Pool.sol
 
 ## install
 

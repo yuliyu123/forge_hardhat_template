@@ -1,6 +1,6 @@
 
 async function main() {
-
+    console.log("run success!");
 }
 
 main().catch((error) => {
